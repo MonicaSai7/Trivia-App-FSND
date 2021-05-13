@@ -42,3 +42,18 @@ The `./frontend` directory contains a complete React frontend to consume the dat
 Pay special attention to what data the frontend is expecting from each API response to help guide how you format your API.
 
 [View the README.md within ./frontend for more details.](./frontend/README.md)
+
+## Screenshots
+
+The main page displaying all questions with pagination:<br><br>
+<img src="resources/main.png"><br><br>
+Creating a new trivia question:<br><br>
+<img src="resources/add_question.png"><br><br>
+Using search box to filter questions by search term:<br><br>
+<img src="resources/search.png"><br><br>
+Displaying questions by category:<br><br>
+<img src="resources/category.png"><br><br>
+Playing Trivia:<br><br>
+<img src="resources/quiz.png"><br><br>
+Result of trivia:<br><br>
+<img src="resources/quiz_result.png"><br><br>
