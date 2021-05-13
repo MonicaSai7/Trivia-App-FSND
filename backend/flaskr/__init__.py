@@ -155,7 +155,7 @@ def create_app(test_config=None):
   It should return any questions for whom the search term 
   is a substring of the question. 
   '''
-  @app.route('questions/search', methods=['POST'])
+  @app.route('/questions/search', methods=['POST'])
   def search_questions():
 
     json_body = request.get_json()
